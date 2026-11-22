@@ -1,0 +1,35 @@
+CASE NUMBER: DFIR-2026-001
+EVIDENCE ITEM ID: EVD-001
+
+EVIDENCE DESCRIPTION:
+256 MB virtual forensic test disk image
+
+SOURCE DEVICE:
+/dev/loop0
+
+ACQUIRED IMAGE:
+evidence_working.dd
+
+ACQUISITION DATE/TIME:
+2026-11-18 16:35:35 +0530
+
+MD5:
+af0dd2387b6c604bace59276fa785401
+
+SHA-256:
+16a3adf89f254f91567c4677a3d937d01e9c107ff84673f2996247848e6623be
+
+ACQUISITION TOOL:
+dc3dd 7.2.646
+
+BAD SECTORS:
+0
+
+CUSTODIAN:
+Harish Choudhary
+
+PURPOSE:
+Educational digital forensics training
+
+TRANSFER HISTORY:
+No transfers. Evidence retained by original custodian.

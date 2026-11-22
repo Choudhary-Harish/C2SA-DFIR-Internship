@@ -1,0 +1,12 @@
+# Preserve original and acquired forensic disk images locally
+*.dd
+*.img
+*.raw
+*.E01
+
+# Temporary files
+finalize.py
+dotnet-install.sh
+*.tmp
+*.swp
+.DS_Store

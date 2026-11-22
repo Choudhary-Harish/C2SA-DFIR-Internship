@@ -1,0 +1,19 @@
+
+dc3dd 7.2.646 started at 2026-11-21 19:44:04 +0530
+compiled options:
+command line dc3dd if=/dev/loop0 of=ntfs_evidence.dd hash=md5 hash=sha256 log=ntfs_acquisition.log
+device size: 524288 sectors (probed),      268,435,456 bytes
+sector size: 512 bytes (probed)
+   268435456 bytes ( 256 M ) copied ( 100% ), 0.803192 s, 319 M/s
+
+input results for device `/dev/loop0':
+   524288 sectors in
+   0 bad sectors replaced by zeros
+   45e67de945924f65e11f7c467c79db9d (md5)
+   53779d8ba0a946bd933915b72f2b68de215b1cf329ac8681571d319ccb85e88e (sha256)
+
+output results for file `ntfs_evidence.dd':
+   524288 sectors out
+
+dc3dd completed at 2026-11-21 19:44:04 +0530
+

@@ -1,0 +1,19 @@
+
+dc3dd 7.2.646 started at 2026-11-18 16:35:35 +0530
+compiled options:
+command line dc3dd if=/dev/loop0 of=evidence_working.dd hash=md5 hash=sha256 log=acquisition_audit.log
+device size: 524288 sectors (probed),      268,435,456 bytes
+sector size: 512 bytes (probed)
+   268435456 bytes ( 256 M ) copied ( 100% ), 0.90993 s, 281 M/s
+
+input results for device `/dev/loop0':
+   524288 sectors in
+   0 bad sectors replaced by zeros
+   af0dd2387b6c604bace59276fa785401 (md5)
+   16a3adf89f254f91567c4677a3d937d01e9c107ff84673f2996247848e6623be (sha256)
+
+output results for file `evidence_working.dd':
+   524288 sectors out
+
+dc3dd completed at 2026-11-18 16:35:36 +0530
+
